@@ -1,0 +1,3 @@
+Баг репорт это- документ в котором описываются деффекты
+Основные пункты баг репорта: Title, Steps to reproduce, expected result, actual result
+Остальные пункты баг репорта: Priority, severity, invirement, version PO.
